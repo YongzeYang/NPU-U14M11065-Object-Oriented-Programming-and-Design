@@ -1,0 +1,30 @@
+EnglishTest_E001_Translate the following text into English._2_Smooth,fluent and without language problems or wrong words_C-E
+EnglishTest_E002_Translate the following article content._3_Clear logic and no language problems_E-C
+EnglishTest_E003_Choose the correct answer based on the content being played._3_Correct answer_Hearing
+EnglishTest_E004_Translate the following Chinese in English._2_No grammatical errors_C-E
+EnglishTest_E005_Translate the following English in Chinese._2_Sentence fluent_E-C
+EnglishTest_E006_Choose the correct answer based on contextual dialogue_2_Right_Hearing
+EnglishTest_E007_Translate the following article content._3_Smooth and fluent_C-E
+EnglishTest_E008_Translate to Chinese_3_Complete translation_E-C
+EnglishTest_E009_Listen to the dialogue and choose Xiao Ming’s weekend schedule._3_Correct answer_Hearing
+EnglishTest_E010_Translate the following text into English._2_Use the correct words and smooth_C-E
+MathTest_M001_Find the inflection points of the following functions._2_Right_no image_no
+MathTest_M002_Which of the following series converge?_3_Right_no image_no
+MathTest_M003_Find the differential equation of the following function._3_Necessary problem-solving process_no image_The first step is to find the integral. The second step is to find the value of the constant c.
+MathTest_M004_Find the angle between the two planes A and B._2_Correct answer_http://image.com/m004_no
+MathTest_M005_Several extreme points in the figure below._3_Right_http://image.com/m005_no
+MathTest_M006_Find the inflection points of the following functions._2_Right_no image_no
+MathTest_M007_Find the differential equation of the following function._3_Clear problem solving process and correct value_no image_Find the value of the constant b and the differential equation
+MathTest_M008_The area enclosed by the following curve and the coordinate axis is?_1_Correct answer_http://image.com/m008_no
+MathTest_M009_Find general solutions of differential equations._2_The parameters are correct_no image_Find the value of the parameter
+MathTest_M010_Find the function f(x)._2_Right_http://image.com/m010_no
+ProfessionalTest_P001_What are the characteristics of JAVA language?_1_Right_Name at least three of the characteristics_no_no image
+ProfessionalTest_P002_Fill in the following blanks to realize the calculation of the sum of the numbers between 1-200 that are not divisible by 5._2_Correct result at run_Fill in the code in the blank._no_http://image.com/p002
+ProfessionalTest_P003_The time complexity of the algorithm refers to?_1_Correct answer_no_no_no image
+ProfessionalTest_P004_The idea of dynamic programming_3_Right_no_no_no image
+ProfessionalTest_P005_The design of the database includes two aspects of design content, they are?_2_Similar in meaning_no_no_no image
+ProfessionalTest_P006_The difference between java and c._2_At least three points_At least three points_no_no image
+ProfessionalTest_P007_The difference between process and thread._3_At least three points_At least three points_no_no image
+ProfessionalTest_P008_The time complexity of the following code is?_1_Right_no_no_http://image.com/p008
+ProfessionalTest_P009_Benefits of thread pool._3_Can name the key benefits_no_no_no image
+ProfessionalTest_P010_Enter 5 numbers to find their maximum and average._3_Correct result at run_Time complexity cannot exceed n._no_no image
